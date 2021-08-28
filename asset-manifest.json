@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/coinswitch_assign/static/css/main.dc081698.chunk.css",
+    "main.js": "/coinswitch_assign/static/js/main.c54b79df.chunk.js",
+    "main.js.map": "/coinswitch_assign/static/js/main.c54b79df.chunk.js.map",
+    "runtime-main.js": "/coinswitch_assign/static/js/runtime-main.b00ce987.js",
+    "runtime-main.js.map": "/coinswitch_assign/static/js/runtime-main.b00ce987.js.map",
+    "static/js/2.4e905c7c.chunk.js": "/coinswitch_assign/static/js/2.4e905c7c.chunk.js",
+    "static/js/2.4e905c7c.chunk.js.map": "/coinswitch_assign/static/js/2.4e905c7c.chunk.js.map",
+    "index.html": "/coinswitch_assign/index.html",
+    "static/css/main.dc081698.chunk.css.map": "/coinswitch_assign/static/css/main.dc081698.chunk.css.map",
+    "static/js/2.4e905c7c.chunk.js.LICENSE.txt": "/coinswitch_assign/static/js/2.4e905c7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b00ce987.js",
+    "static/js/2.4e905c7c.chunk.js",
+    "static/css/main.dc081698.chunk.css",
+    "static/js/main.c54b79df.chunk.js"
+  ]
+}
