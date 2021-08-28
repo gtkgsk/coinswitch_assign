@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/coinswitch_assign/static/css/main.dc081698.chunk.css",
-    "main.js": "/coinswitch_assign/static/js/main.76d9706c.chunk.js",
-    "main.js.map": "/coinswitch_assign/static/js/main.76d9706c.chunk.js.map",
+    "main.js": "/coinswitch_assign/static/js/main.7b850c41.chunk.js",
+    "main.js.map": "/coinswitch_assign/static/js/main.7b850c41.chunk.js.map",
     "runtime-main.js": "/coinswitch_assign/static/js/runtime-main.9859e427.js",
     "runtime-main.js.map": "/coinswitch_assign/static/js/runtime-main.9859e427.js.map",
     "static/js/2.2134eafd.chunk.js": "/coinswitch_assign/static/js/2.2134eafd.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.9859e427.js",
     "static/js/2.2134eafd.chunk.js",
     "static/css/main.dc081698.chunk.css",
-    "static/js/main.76d9706c.chunk.js"
+    "static/js/main.7b850c41.chunk.js"
   ]
 }
