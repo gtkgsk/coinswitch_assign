@@ -36,7 +36,7 @@ const dataReducer = (state = initialState, action) => {
 
   if (action.type === "CUSTOMIZE_OFF") {
     let new_assets = state.assets.map((asset) => {
-      if (asset.data.id === action.id) {
+      if (asset.data.id === action.data) {
         return { ...asset, show_option: false };
       } else {
         return asset;

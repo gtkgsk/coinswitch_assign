@@ -6,7 +6,7 @@ import Avatar from "@material-ui/core/Avatar";
 const Currency = (props) => {
   const dispatch = useDispatch();
   function handleChange(event) {
-    if (event.target.checked) {
+    if (!props.show) {
       dispatch({ type: "CUSTOMIZE_ON", data: event.target.id });
     } else {
       dispatch({ type: "CUSTOMIZE_OFF", data: event.target.id });
