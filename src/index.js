@@ -10,7 +10,7 @@ import store from './store/index';
 
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/coinswitch_assign">
     <Provider store={store}>
     <App />
   </Provider>
