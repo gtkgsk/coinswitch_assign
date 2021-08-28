@@ -8,10 +8,10 @@ function App() {
   return (
     <div>
       <Switch>
-          <Route path='/details'>
+          <Route path='/' exact>
             <Details />
           </Route>
-          <Route path='/customize'>
+          <Route path='/customize' exact>
             <Customize />
           </Route>
         </Switch>

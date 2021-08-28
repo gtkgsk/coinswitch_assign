@@ -33,7 +33,7 @@ const Customize = () => {
   return (
     <React.Fragment>
       <div className={classes.header}>
-        <Link to="/details">
+        <Link to="/">
           <ArrowBackIcon style={{ color: "white" }} />
         </Link>
         <div className={classes.heading}>Customize Watchlist</div>

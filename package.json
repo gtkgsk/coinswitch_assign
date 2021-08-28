@@ -1,6 +1,6 @@
 {
-  "homepage":"http://gtkgsk.github.io/coinswitch_assign/details",
-  "name": "redux-basics",
+  "homepage":"http://gtkgsk.github.io/coinswitch_assign/",
+  "name": "coinswitch_assign",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
