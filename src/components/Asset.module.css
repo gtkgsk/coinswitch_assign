@@ -1,0 +1,53 @@
+.asset {
+  background-color: white;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  border: 1px solid rgba(0, 0, 0, 0.116);
+  align-items: center;
+  justify-content: space-between;
+  padding: 4px;
+  margin-bottom: 8px;
+  border-radius: 4px;
+}
+
+.image {
+  padding: 2%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.name {
+  margin-left: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.coin {
+    font-weight: bold;
+}
+
+.symbol {
+    text-transform:uppercase;
+    color:lightgrey;
+    font-size: 10px;
+}
+
+.price {
+  display: flex;
+  flex-direction: column;
+  font-weight:bold;
+}
+
+.up {
+  display: flex;
+  align-items: center;
+  color: green;
+}
+
+.down {
+  display: flex;
+  align-items: center;
+  color: red;
+}

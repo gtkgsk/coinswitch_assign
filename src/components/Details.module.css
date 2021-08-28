@@ -1,0 +1,47 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #757ce8;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  z-index: 999;
+}
+
+.custom {
+  display: flex;
+  justify-content: flex-end;
+  padding: 8px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.view {
+  display: flex;
+  justify-content: flex-start;
+  padding: 20px;
+  flex-direction: column;
+}
+
+.accounts {
+  font-size: 12px;
+  color: lightgrey;
+}
+
+.nmbr {
+  font-size: 36px;
+}
+
+.message {
+  text-align: center;
+}
+
+.items {
+  margin-top: 180px;
+  margin-left: 16px;
+  margin-right: 16px;
+}
